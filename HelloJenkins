@@ -1,0 +1,4 @@
+echo "print('Hello, Jenkins!')" > hello.py
+git add hello.py
+git commit -m "Initial commit"
+git push origin main
